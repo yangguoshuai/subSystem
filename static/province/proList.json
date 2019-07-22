@@ -1,0 +1,108 @@
+{
+	"data":[
+		{
+			"code": 110000,
+			"proName": "北京市"
+		}, {
+			"code": 120000,
+			"proName": "天津市"
+		}, {
+			"code": 130000,
+			"proName": "河北省"
+		},{
+			"code": 140000,
+			"proName": "山西省"
+		}, {
+			"code": 150000,
+			"proName": "内蒙古自治区"
+		}, {
+			"code": 210000,
+			"proName": "辽宁省"
+		}, {
+			"code": 220000,
+			"proName": "吉林省"
+		}, {
+			"code": 230000,
+			"proName": "黑龙江省"
+		}, {
+			"code": 310000,
+			"proName": "上海市"
+		}, {
+			"code": 320000,
+			"proName": "江苏省"
+		}, {
+			"code": 330000,
+			"proName": "浙江省"
+		}, {
+			"code": 340000,
+			"proName": "安徽省"
+		}, {
+			"code": 350000,
+			"proName": "福建省"
+		}, {
+			"code": 360000,
+			"proName": "江西省"
+		}, {
+			"code": 370000,
+			"proName": "山东省"
+		}, {
+			"code": 410000,
+			"proName": "河南省"
+		}, {
+			"code": 420000,
+			"proName": "湖北省"
+		}, {
+			"code": 430000,
+			"proName": "湖南省"
+		}, {
+			"code": 440000,
+			"proName": "广东省"
+		}, {
+			"code": 450000,
+			"proName": "广西壮族自治区"
+		}, {
+			"code": 460000,
+			"proName": "海南省"
+		}, {
+			"code": 500000,
+			"proName": "重庆市"
+
+		}, {
+			"code": 510000,
+			"proName": "四川省"
+
+		}, {
+			"code": 520000,
+			"proName": "贵州省"
+		}, {
+			"code": 530000,
+			"proName": "云南省"
+		}, {
+			"code": 540000,
+			"proName": "西藏自治区"
+		}, {
+			"code": 610000,
+			"proName": "陕西省"
+		}, {
+			"code": 620000,
+			"proName": "甘肃省"
+		}, {
+			"code": 630000,
+			"proName": "青海省"
+
+		},{
+			"code": 640000,
+			"proName": "宁夏回族自治区"
+		}, {
+			"code": 650000,
+			"proName": "新疆维吾尔自治区"
+		}, {
+			"code": 810000,
+			"proName": "香港特别行政区"
+
+		}, {
+			"code": 820000,
+			"proName": "澳门特别行政区"
+		}
+	]
+}
