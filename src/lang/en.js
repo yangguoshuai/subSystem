@@ -72,7 +72,7 @@ export default {
     size: 'Global Size'
   },
   login: {
-    title: '运维系统登录',
+    title: '评测系统登录',
     logIn: 'Log in',
     username: 'Username',
     password: 'Password',

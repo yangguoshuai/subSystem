@@ -72,7 +72,7 @@ export default {
     size: '布局大小'
   },
   login: {
-    title: '运维系统登录',
+    title: '评测系统登录',
     logIn: '登录',
     username: '账号',
     password: '密码',

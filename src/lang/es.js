@@ -72,7 +72,7 @@ export default {
     size: 'Tamaño global'
   },
   login: {
-    title: 'Formulario de acceso',
+    title: 'Login of Evaluation System',
     logIn: 'Acceso',
     username: 'Usuario',
     password: 'Contraseña',
